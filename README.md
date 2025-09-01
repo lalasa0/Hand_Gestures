@@ -33,7 +33,7 @@ The system achieves **real-time performance (~30 FPS)** on a standard laptop web
 
 ## Demo
 A short screen recording of the application running in real time is provided:
-[Demo Video]
+[Demo Video] https://github.com/lalasa0/Hand_Gestures/blob/main/Demo_hand_gestures.mp4
 
 ## Setup & Usage
 1. Clone the repository:
