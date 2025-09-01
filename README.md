@@ -30,20 +30,10 @@ This approach avoids the need for manual data collection and training.
 Since this is a **rule-based system**, no explicit model training was required.
 The system achieves **real-time performance (~30 FPS)** on a standard laptop webcam.
 
-### Sample Gestures
-#### Open Palm
-![Open Palm](images/open_palm.png)
-
-#### Fist
-![Fist](images/fist.png)
-
-#### Peace Sign
-![Peace](images/peace.png)
-
 
 ## Demo
 A short screen recording of the application running in real time is provided:
-[Demo Video](demo_hand_gestures.mp4)
+[Demo Video]
 
 ## Setup & Usage
 1. Clone the repository:
